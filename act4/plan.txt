@@ -1,0 +1,4 @@
+to make the decimal work
+
+make conditional that adds . to string but once it is added
+condition becomes true - changing the != so that the "decimal is locked out"
